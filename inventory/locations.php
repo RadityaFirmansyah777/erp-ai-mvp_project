@@ -29,7 +29,7 @@ $rows = $pdo->query("SELECT * FROM locations ORDER BY id")->fetchAll();
             <a class="active" href="locations.php">Locations</a>
             <a href="stock.php">Stock</a>
             <a href="operations.php">Operations</a>
-            <a href="../ai/chat.php">🤖 AI Assistant</a>
+            <a href="../ai/chat.php">AI Assistant</a>
         </aside>
 
         <!-- Main Content -->

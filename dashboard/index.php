@@ -32,7 +32,7 @@ $low       = $pdo->query("SELECT COUNT(*) c FROM stock WHERE quantity < 20")->fe
             <a href="../inventory/locations.php">Locations</a>
             <a href="../inventory/stock.php">Stock</a>
             <a href="../inventory/operations.php">Operations</a>
-            <a href="../ai/chat.php">🤖 AI Assistant</a>
+            <a href="../ai/chat.php">AI Assistant</a>
             <a href="../public/logout.php">Logout</a>
         </aside>
 

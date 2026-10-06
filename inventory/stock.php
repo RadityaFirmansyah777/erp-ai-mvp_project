@@ -39,7 +39,7 @@ $rows = $pdo->query("
             <a href="locations.php">Locations</a>
             <a class="active" href="stock.php">Stock</a>
             <a href="operations.php">Operations</a>
-            <a href="../ai/chat.php">🤖 AI Assistant</a>
+            <a href="../ai/chat.php">AI Assistant</a>
         </aside>
 
         <!-- Main Content -->
