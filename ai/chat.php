@@ -16,7 +16,7 @@ session_start(); if (!isset($_SESSION['user_id'])) { header('Location: ../public
         <a href="../inventory/locations.php">Locations</a>
         <a href="../inventory/stock.php">Stock</a>
         <a href="../inventory/operations.php">Operations</a>
-        <a class="active" href="chat.php">🤖 AI Assistant</a>
+        <a class="active" href="chat.php">AI Assistant</a>
     </aside>
     <main>
     <h1>AI Stock Assistant</h1>
